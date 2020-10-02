@@ -1,0 +1,305 @@
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+  */
+
+  @media (min-width: 768px) and (max-width: 1024px) {
+   .banner{
+    height: auto;
+  }
+  .left-side{
+    height: auto;
+  }
+  .banner .row{
+    padding: 103px 0;
+  }
+
+
+  .left-side h1 {
+
+    font-size: 45px;
+  }
+
+
+  .left-side p {
+    font-size: 20px;
+  }
+
+  .left-side button {
+    font-size: 21px;
+    margin-top: 41px;
+  }
+
+  .banner-2 .left-side1 h1 {
+    font-size: 31px;
+  }
+  .banner-2 .left-side1 p {
+    font-size: 18px;
+  }
+  .banner-2 .left-side1 button {
+    font-size: 20px;
+  }
+  .banner-2 .right-side1 {
+    margin-left: 0; 
+  }
+
+  .video-section {
+
+
+   padding: 0; 
+ }
+ .col-md-12 .title {
+    margin: 100px 0!important;
+}
+ .title-section {
+
+  padding: 0;
+}
+.title2 h1{
+      margin: 3.5rem 0;
+}
+.title-section .col-md-4 h3 {
+  font-size: 19px;
+  text-align: left;
+
+}
+
+.title-section .col-md-4 p {
+  font-size: 16px;
+
+}
+.video-section .col-md-6 h1 {
+  font-size: 21px;
+  color: #313243;
+}
+.video-section .col-md-6 p {
+  font-size: 17px;
+  color: #7f7f8a;
+}
+.video-section .col-md-6 button {
+  font-size: 30px;
+}
+
+.title-section2 {
+  padding: 17px 0;
+}
+
+.team-section {
+
+  padding: 0;
+}
+.team-section {
+    
+    padding: 0;
+}
+
+.team-section .col-md-4 h3 {
+  font-size: 19px;
+}
+
+
+/* post section*/
+.post-section {
+
+      margin-top: 60px;
+}
+.post-section p{
+  font-size: 26px;
+}
+.post-section .row{
+  flex-direction: column;
+}
+.post-section .col-md-4{
+  width: 100%;
+  text-align: center;
+  margin-left: 155px;
+}
+.post-section .card-body h6 {
+  font-size: 26px;
+}
+
+.post-section .card-body p {
+  font-size: 18px;
+}
+.post-section .col-md-4 {
+  margin-top:15px ;
+  margin-left: 155px;
+}
+
+.footer-icon ul li{
+  font-size: 19px;
+}
+
+.footer-icon ul{
+  font-size: 16px;
+}
+
+.footer-section a {
+  font-size: 42px;
+}
+.footer-section .col-md-6{
+  padding: 0;
+  text-align: right;
+}
+
+
+}
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+  */
+
+  @media (min-width: 320px) and (max-width: 480px) {
+    .navbar {
+    
+    justify-content: center;
+    
+}
+.banner {
+   
+     height:auto; 
+    
+}
+
+.banner .left-side {
+     height: auto; 
+    
+    padding: 90px 0;
+}
+
+.banner .left-side h1 {
+    font-size: 30px;
+}
+
+.left-side p {
+    font-size: 22px;
+}
+.left-side button {
+    font-size: 18px;
+}
+
+.banner-2 .left-side1 h1 {
+    font-size: 31px;
+}
+
+.banner-2 .col-md-6{
+  margin-top: 30px;
+}
+.banner-2 .right-side1 {
+    
+     margin-left:0; 
+}
+
+.title-section {
+    padding:0; 
+}
+.title h1 {
+    font-size: 33px;
+}
+
+.title p {
+    font-size: 16px;
+    
+}
+.title-section .col-md-4 h3 {
+    font-size: 19px;
+}
+.title-section .col-md-4 p {
+    font-size: 17px;
+    
+}
+.video-section {
+    
+    padding: 0;
+}.video-section .col-md-6{
+  text-align: left;
+  padding-left: 0;
+  }
+.video-section .col-md-6 {
+    padding-right: 29px;
+    padding-left: 0;
+}
+.video-section .col-md-6 h1 {
+    text-align: left;
+    font-size: 32px;
+    margin-top: 20px;
+}
+.video-section .col-md-6 p{
+  font-size: 16px;
+  text-align: left;
+}
+/*title-2 section css*/
+.title-section2 {
+   
+     padding: 10px 0; 
+}
+.title2 h1 {
+    font-size: 32px;
+}
+
+.title2 p {
+    font-size: 14px;
+}
+.title-section2{
+  margin-top: 20px;
+}
+
+
+/*team section css*/
+.team-section {
+   padding: 0!important; 
+   
+}
+.team-section .col-md-12 h1 {
+    font-size: 37px;
+}
+.team-section .col-md-12 p {
+    font-size: 19px;
+    text-align: left;
+   
+}
+/*counter banner*/
+.counter-banner {
+    width: 100%;
+    height: 600px;
+}
+.counter-banner .container{
+  width: 100%;
+    height: 600px;
+}
+.counter-banner .col-md-4 img {
+     margin-bottom: 0; 
+}
+
+
+.counter-banner .row {
+    
+margin-right: 0; 
+ margin-left: 0; 
+}
+.counter-banner .col-md-4 {
+    top: 0px !important;
+    left: 0px !important;
+}
+/*footer section css*/
+.footer-section .col-md-6 {
+     text-align: left; 
+}
+.footer-section form{
+      margin-left: 0;
+}
+
+.footer-section {
+    padding: 80px 0;
+}
+
+
+
+
+
+  }
